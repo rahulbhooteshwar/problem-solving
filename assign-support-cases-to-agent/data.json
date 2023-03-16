@@ -1,0 +1,668 @@
+{
+  "availableAgents": [
+    "sam.williams",
+    "said.moussavibarab",
+    "troy.bombardiere",
+    "phanidhar.k",
+    "steve.pardo",
+    "andrew.stidd",
+    "wayne.lee",
+    "yuanlong.tan",
+    "ajay.bansode",
+    "ernest.brown",
+    "abishek.raman",
+    "harishrao.balaji",
+    "sanket.dere",
+    "wei.shi",
+    "eddie.onsare",
+    "erdley.wright",
+    "chad.chavis",
+    "mitchell.barber",
+    "sainath.varma",
+    "roberto.velez",
+    "scott.szczesniak",
+    "ankit.raut",
+    "khalid.ansari",
+    "naina.lohana",
+    "aarthi.kambhampati",
+    "nirav.mehta",
+    "hasan.mahmood"
+  ],
+  "cases": [
+    {
+      "caseNumber": "01412075",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413323",
+      "elligibleAgentsSortedBySkillRatting": [
+        "said.moussavibarab",
+        "wayne.lee",
+        "yuanlong.tan",
+        "sam.williams",
+        "steve.pardo",
+        "andrew.stidd",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "ajay.bansode",
+        "harishrao.balaji",
+        "eddie.onsare",
+        "mitchell.barber",
+        "ernest.brown",
+        "erdley.wright",
+        "chad.chavis",
+        "abishek.raman",
+        "sanket.dere",
+        "wei.shi"
+      ]
+    },
+    {
+      "caseNumber": "01413965",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413979",
+      "elligibleAgentsSortedBySkillRatting": ["sainath.varma", "roberto.velez"]
+    },
+    {
+      "caseNumber": "01413983",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "troy.bombardiere",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413984",
+      "elligibleAgentsSortedBySkillRatting": ["sainath.varma", "roberto.velez"]
+    },
+    {
+      "caseNumber": "01413988",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "mitchell.barber",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis"
+      ]
+    },
+    {
+      "caseNumber": "01413991",
+      "elligibleAgentsSortedBySkillRatting": ["sainath.varma", "roberto.velez"]
+    },
+    {
+      "caseNumber": "01413993",
+      "elligibleAgentsSortedBySkillRatting": [
+        "scott.szczesniak",
+        "ankit.raut",
+        "khalid.ansari",
+        "naina.lohana"
+      ]
+    },
+    {
+      "caseNumber": "01414001",
+      "elligibleAgentsSortedBySkillRatting": [
+        "said.moussavibarab",
+        "wayne.lee",
+        "yuanlong.tan",
+        "sam.williams",
+        "steve.pardo",
+        "andrew.stidd",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "ajay.bansode",
+        "harishrao.balaji",
+        "eddie.onsare",
+        "mitchell.barber",
+        "ernest.brown",
+        "erdley.wright",
+        "chad.chavis",
+        "abishek.raman",
+        "sanket.dere",
+        "wei.shi"
+      ]
+    },
+    {
+      "caseNumber": "01414007",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "mitchell.barber",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis"
+      ]
+    },
+    {
+      "caseNumber": "01414009",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "mitchell.barber",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis"
+      ]
+    },
+    {
+      "caseNumber": "01413999",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "mitchell.barber",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis"
+      ]
+    },
+    {
+      "caseNumber": "01414015",
+      "elligibleAgentsSortedBySkillRatting": ["aarthi.kambhampati", "nirav.mehta", "hasan.mahmood"]
+    },
+    {
+      "caseNumber": "01413949",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413966",
+      "elligibleAgentsSortedBySkillRatting": [
+        "said.moussavibarab",
+        "wayne.lee",
+        "yuanlong.tan",
+        "sam.williams",
+        "steve.pardo",
+        "andrew.stidd",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "ajay.bansode",
+        "harishrao.balaji",
+        "eddie.onsare",
+        "mitchell.barber",
+        "ernest.brown",
+        "erdley.wright",
+        "chad.chavis",
+        "abishek.raman",
+        "sanket.dere",
+        "wei.shi"
+      ]
+    },
+    {
+      "caseNumber": "01413976",
+      "elligibleAgentsSortedBySkillRatting": [
+        "scott.szczesniak",
+        "ankit.raut",
+        "khalid.ansari",
+        "naina.lohana"
+      ]
+    },
+    {
+      "caseNumber": "01413978",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413980",
+      "elligibleAgentsSortedBySkillRatting": ["aarthi.kambhampati", "nirav.mehta", "hasan.mahmood"]
+    },
+    {
+      "caseNumber": "01413981",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413986",
+      "elligibleAgentsSortedBySkillRatting": [
+        "scott.szczesniak",
+        "ankit.raut",
+        "khalid.ansari",
+        "naina.lohana"
+      ]
+    },
+    {
+      "caseNumber": "01413994",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "mitchell.barber",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis"
+      ]
+    },
+    {
+      "caseNumber": "01414004",
+      "elligibleAgentsSortedBySkillRatting": [
+        "said.moussavibarab",
+        "wayne.lee",
+        "yuanlong.tan",
+        "sam.williams",
+        "steve.pardo",
+        "andrew.stidd",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "ajay.bansode",
+        "harishrao.balaji",
+        "eddie.onsare",
+        "mitchell.barber",
+        "ernest.brown",
+        "erdley.wright",
+        "chad.chavis",
+        "abishek.raman",
+        "sanket.dere",
+        "wei.shi"
+      ]
+    },
+    {
+      "caseNumber": "01414008",
+      "elligibleAgentsSortedBySkillRatting": [
+        "said.moussavibarab",
+        "wayne.lee",
+        "yuanlong.tan",
+        "sam.williams",
+        "steve.pardo",
+        "andrew.stidd",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "ajay.bansode",
+        "mitchell.barber",
+        "harishrao.balaji",
+        "eddie.onsare",
+        "ernest.brown",
+        "erdley.wright",
+        "chad.chavis",
+        "abishek.raman",
+        "sanket.dere",
+        "wei.shi"
+      ]
+    },
+    {
+      "caseNumber": "01414013",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "mitchell.barber",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis"
+      ]
+    },
+    {
+      "caseNumber": "01414014",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01414018",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413956",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "troy.bombardiere",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "said.moussavibarab",
+        "phanidhar.k",
+        "steve.pardo",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "wei.shi",
+        "eddie.onsare",
+        "chad.chavis",
+        "erdley.wright",
+        "ajay.bansode",
+        "sanket.dere",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01414012",
+      "elligibleAgentsSortedBySkillRatting": [
+        "said.moussavibarab",
+        "wayne.lee",
+        "yuanlong.tan",
+        "sam.williams",
+        "steve.pardo",
+        "andrew.stidd",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "ajay.bansode",
+        "harishrao.balaji",
+        "eddie.onsare",
+        "mitchell.barber",
+        "ernest.brown",
+        "erdley.wright",
+        "chad.chavis",
+        "abishek.raman",
+        "sanket.dere",
+        "wei.shi"
+      ]
+    },
+    {
+      "caseNumber": "01411432",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413938",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413885",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "troy.bombardiere",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "said.moussavibarab",
+        "phanidhar.k",
+        "steve.pardo",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "wei.shi",
+        "eddie.onsare",
+        "chad.chavis",
+        "erdley.wright",
+        "ajay.bansode",
+        "sanket.dere",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01414019",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    },
+    {
+      "caseNumber": "01413962",
+      "elligibleAgentsSortedBySkillRatting": [
+        "sam.williams",
+        "said.moussavibarab",
+        "troy.bombardiere",
+        "phanidhar.k",
+        "steve.pardo",
+        "andrew.stidd",
+        "wayne.lee",
+        "yuanlong.tan",
+        "ajay.bansode",
+        "ernest.brown",
+        "abishek.raman",
+        "harishrao.balaji",
+        "sanket.dere",
+        "wei.shi",
+        "eddie.onsare",
+        "erdley.wright",
+        "chad.chavis",
+        "mitchell.barber"
+      ]
+    }
+  ]
+}
